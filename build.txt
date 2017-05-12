@@ -5,3 +5,6 @@
 5. apt-get install python-tk
 6. apt-get install python-yaml
 
+
+21class to 2class:
+http://www.cnblogs.com/louyihang-loves-baiyan/p/4906690.html
